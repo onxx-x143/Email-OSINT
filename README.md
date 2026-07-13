@@ -2,6 +2,15 @@
 
 ![install ](https://files.catbox.moe/v6bevo.png)
                 English 🥷🏻
+**Created by Onxx-x143*
+### 🔗Feedback
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-x145)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harijadhavai)
+
+---
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![OSINT](https://img.shields.io/badge/OSINT-Tool-orange.svg)
