@@ -1,4 +1,4 @@
-# EmailOSINTl: Advanced Email Extraction & OSINT Intelligence Tool
+# Email-OSINT: Advanced Email Extraction & OSINT Intelligence Tool
 
 ![install ](https://files.catbox.moe/v6bevo.png)
                 English 🥷🏻
